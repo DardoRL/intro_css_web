@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+}
+header {
+    background-color: #5f5555;
+}
+header > nav > ul {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
